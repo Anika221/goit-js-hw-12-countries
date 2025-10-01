@@ -1,0 +1,11 @@
+<div class="country-card">
+  <h2>{{name}}</h2>
+  <img src="{{flag}}" alt="Прапор {{name}}" width="200">
+  <p><b>Столиця:</b> {{capital}}</p>
+  <p><b>Населення:</b> {{population}}</p>
+  <p><b>Мови:</b> 
+    {{#each languages}}
+      {{name}}{{#unless @last}}, {{/unless}}
+    {{/each}}
+  </p>
+</div>
