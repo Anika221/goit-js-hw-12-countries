@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "parcel index.html",
-     "build": "next build"
   },
   "keywords": [],
   "author": "",
@@ -13,8 +11,5 @@
     "@pnotify/core": "^5.2.0",
     "handlebars": "^4.7.8",
     "lodash.debounce": "^4.0.8"
-  },
-  "devDependencies": {
-    "parcel": "^2.16.0"
   }
 }
