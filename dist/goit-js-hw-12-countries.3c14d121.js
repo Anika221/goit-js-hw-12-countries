@@ -727,7 +727,7 @@ const refs = {
     input: document.querySelector('#search-box'),
     container: document.querySelector('.js-container')
 };
-// Функції-шаблони
+// Шаблон для однієї країни
 function countryCardTpl(country) {
     return `
     <div class="country-card">
@@ -739,6 +739,7 @@ function countryCardTpl(country) {
     </div>
   `;
 }
+// Шаблон для списку 2–10 країн
 function countryListTpl(countries) {
     return `
     <ul class="country-list">
@@ -746,7 +747,7 @@ function countryListTpl(countries) {
     </ul>
   `;
 }
-// Подія вводу з debounce
+// Обробник вводу з debounce 500 мс
 refs.input.addEventListener('input', (0, _lodashDebounceDefault.default)(onSearch, 500));
 function onSearch(e) {
     const query = e.target.value.trim();
@@ -774,14 +775,13 @@ function onSearch(e) {
     });
 }
 
-},{"./fetchCountries":"5oEsi","@pnotify/core":"fay4s","@pnotify/core/dist/PNotify.css":"c4y47","@pnotify/core/dist/BrightTheme.css":"grIyt","lodash.debounce":"irvaP","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT","./style.css":"dRy26"}],"5oEsi":[function(require,module,exports,__globalThis) {
+},{"./style.css":"dRy26","./fetchCountries":"5oEsi","@pnotify/core":"fay4s","@pnotify/core/dist/PNotify.css":"c4y47","@pnotify/core/dist/BrightTheme.css":"grIyt","lodash.debounce":"irvaP","@parcel/transformer-js/src/esmodule-helpers.js":"jnFvT"}],"dRy26":[function() {},{}],"5oEsi":[function(require,module,exports,__globalThis) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 parcelHelpers.export(exports, "default", ()=>fetchCountries);
-const BASE_URL = 'https://restcountries.com/v2';
 function fetchCountries(searchQuery) {
-    return fetch(`${BASE_URL}/name/${searchQuery}`).then((response)=>{
-        if (!response.ok) throw new Error('Country not found');
+    return fetch(`https://restcountries.com/v2/name/${searchQuery}`).then((response)=>{
+        if (!response.ok) throw new Error(response.status);
         return response.json();
     });
 }
@@ -3725,6 +3725,6 @@ var FUNC_ERROR_TEXT = 'Expected a function';
 }
 module.exports = debounce;
 
-},{}],"dRy26":[function() {},{}]},["n0fw4","kTBnD"], "kTBnD", "parcelRequirec490", {})
+},{}]},["n0fw4","kTBnD"], "kTBnD", "parcelRequirec490", {})
 
 //# sourceMappingURL=goit-js-hw-12-countries.3c14d121.js.map

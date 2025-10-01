@@ -10,7 +10,7 @@ const refs = {
   container: document.querySelector('.js-container'),
 };
 
-// Функції-шаблони
+// Шаблон для однієї країни
 function countryCardTpl(country) {
   return `
     <div class="country-card">
@@ -23,15 +23,18 @@ function countryCardTpl(country) {
   `;
 }
 
+// Шаблон для списку 2–10 країн
 function countryListTpl(countries) {
   return `
     <ul class="country-list">
-      ${countries.map(c => `<li><img src="${c.flag}" width="50"> ${c.name}</li>`).join('')}
+      ${countries
+        .map(c => `<li><img src="${c.flag}" width="50"> ${c.name}</li>`)
+        .join('')}
     </ul>
   `;
 }
 
-// Подія вводу з debounce
+// Обробник вводу з debounce 500 мс
 refs.input.addEventListener('input', debounce(onSearch, 500));
 
 function onSearch(e) {

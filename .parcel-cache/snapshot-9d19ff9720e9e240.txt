@@ -12,8 +12,8 @@
 119C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\source-map\lib\binary-search.js134038011524676498 0
 119C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\regions\BE.js134037991491992380 0
 127C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\transformer-babel\src\config.js134037991493347303 0
-79C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist134038015165524987 1
-85C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\index.html134038006811966198 0
+79C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist134038026373319494 1
+85C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\index.html134038026087658067 0
 141C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\react-refresh\cjs\react-refresh-runtime.production.js134037991480700093 0
 125C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lightningcss-win32-x64-msvc\README.md134037991478922246 0
 116C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\msgpackr-extract\binding.gyp134037991478887442 0
@@ -38,13 +38,13 @@
 128C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@swc\helpers\_\_class_private_method_set134037991515732831 1
 100C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\browserslist134037991482926032 1
 125C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\source-map\lib\source-map-consumer.js134038011525048224 0
-92C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\fetchCountries.js134037994247393631 0
+92C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\fetchCountries.js134038026166566467 0
 112C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@swc\helpers\_\_inherits134037991521422112 1
 96C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\msgpackr134037991493185680 1
 118C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\types-internal\scripts134037991485037645 1
 106C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\src\lmdb-js.h134037991497072254 0
 118C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\utils\src\ansi-html.js134037991511818497 0
-84C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\script.js134038017317943565 0
+84C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\script.js134038026229186903 0
 147C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1134037991484774265 0
 105C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@msgpackr-extract134038013660550085 1
 85C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\handlebars134037988863686511 1
@@ -70,7 +70,7 @@
 87C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules134038013660492763 1
 97C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\picomatch134037991482112832 1
 112C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\safe-buffer\package.json134037991478722274 0
-84C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\style.css134037994529139749 0
+84C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\style.css134038026370243600 0
 110C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\uglify-js\lib\scope.js134038011526087706 0
 94C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\dotenv134037991482774340 1
 132C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\filereadersync.js134037991526591180 0
@@ -911,7 +911,7 @@
 112C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\source-map\source-map.js134038011524009652 0
 118C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\source-map\lib\mapping-list.js134038011524831490 0
 142C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js134037991504317814 0
-101C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\handlebars\countryCard.hbs134037994715843886 0
+101C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\handlebars\countryCard.hbs134038019638668566 0
 138C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\handlebars\dist\cjs\handlebars\compiler\helpers.js134038011528225146 0
 134C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\core\src\requests\AssetGraphRequest.js134037991520391778 0
 135C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@swc\helpers\esm\_class_private_field_update.js134037991497156949 0
@@ -997,7 +997,7 @@
 129C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\node_modules\node-addon-api\index.js134037991483616218 0
 144C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@swc\helpers\esm\_class_static_private_field_spec_set.js134037991497367847 0
 134C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\text-size-adjust.js134037991539523614 0
-119C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3c14d121.js.map134038015164975821 0
+119C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3c14d121.js.map134038026230255573 0
 130C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@swc\helpers\_\_initializer_warning_helper134037991521672388 1
 104C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\neo-async\log.js134038011527366869 0
 120C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\semver\internal\parse-options.js134037991486037231 0
@@ -1689,7 +1689,7 @@
 143C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\lmdb.h134037991497305955 0
 142C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c134037991490509435 0
 132C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\iframe-sandbox.js134037991530279914 0
-120C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3a01df49.css.map134038015165473979 0
+120C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3a01df49.css.map134038026373319494 0
 147C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c134037991488816457 0
 147C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c134037991489096621 0
 143C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.c134037991492510258 0
@@ -2722,7 +2722,7 @@
 126C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\wai-aria.js134037991540377398 0
 122C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\workers\src\core-worker.js134037991488917737 0
 127C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\wake-lock.js134037991540377398 0
-116C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.aa436662.css134038015165386853 0
+116C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.aa436662.css134038026096484377 0
 134C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js134037991540377398 0
 135C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\caniuse-lite\data\features\wasm-multi-memory.js134037991540514880 0
 119C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\.bin\update-browserslist-db.cmd134037991541739098 0
@@ -3786,7 +3786,7 @@
 135C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\core\test\fixtures\main-format-mismatch134037991531042025 1
 126C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\core\test\fixtures\module-a.js134037991525034462 0
 122C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\core\test\fixtures\plugins134037991524959828 1
-101C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\handlebars\countryList.hbs134037994647309795 0
+101C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\handlebars\countryList.hbs134038019729426588 0
 155C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json134037991531287740 0
 138C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\core\test\fixtures\plugins\local-plugin.js134037991524984507 0
 165C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines134037991531207542 1
@@ -3902,7 +3902,7 @@
 105C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\.bin\uglifyjs.ps1134038011530439678 0
 115C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\.bin\update-browserslist-db134037991541739098 0
 119C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\node_modules\.bin\update-browserslist-db.ps1134037991541739098 0
-116C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3a01df49.css134038015165386853 0
-115C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3c14d121.js134038015164811083 0
-120C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.aa436662.css.map134038015165473979 0
-90C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\index.html134038015164516922 0
+116C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3a01df49.css134038026373149778 0
+115C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.3c14d121.js134038026230052477 0
+120C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\goit-js-hw-12-countries.aa436662.css.map134038026097067222 0
+90C:\Users\acera315-54k-f8\OneDrive\Documenti\GitHub\goit-js-hw-12-countries\dist\index.html134038026096896967 0
